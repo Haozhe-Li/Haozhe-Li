@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there🙋
 
-<!--
-**Haozhe-Li/Haozhe-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Haozhe Li, welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+### Repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My repository of my website is pinned below.
+
+[**Visit the repository**](https://github.com/Haozhe-Li/Haozhe-Li.github.io) or [**Visit my website**](https://www.haozheli.com)
+
+### Contact
+
+Please **[click here](https://www.haozheli.com/EN.html#contact)**
