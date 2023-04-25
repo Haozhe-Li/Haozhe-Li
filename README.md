@@ -10,4 +10,8 @@ My repository of my website is pinned below.
 
 ### Contact
 
-Please **[click here](https://www.haozheli.com/EN.html#contact)**
+Please **[click here](https://www.haozheli.com/contact.html)**
+
+### Gallery
+
+Please **[click here](https://gallery.haozheli.com)**
