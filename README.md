@@ -4,13 +4,14 @@ I am Haozhe Li, welcome to my GitHub profile!
 
 ### Repository
 
-My repository of my website is pinned below.
+Here is the work you might be interested in.
 
-[**Visit the repository**](https://github.com/Haozhe-Li/haozheli.com) or [**Visit my website**](https://www.haozheli.com)
+[**Haozheli.com**](https://github.com/Haozhe-Li/haozheli.com) or [**Visit my website**](https://www.haozheli.com)
+[**Auto-Run-Moss**](https://github.com/Haozhe-Li/Auto-Run-Moss): you can run moss to check your code with automation.
 
 ### Contact
 
-Please **[click here](https://www.haozheli.com#contactl)**
+Please **[click here](https://www.haozheli.com#contact)**
 
 ### Gallery
 
