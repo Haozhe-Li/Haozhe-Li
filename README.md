@@ -1,8 +1,8 @@
 # Hi there🙋
 
-I am Haozhe Li, welcome to my GitHub profile! I'm a Computer Science and Music Junior student at [U of I](https://illinois.edu). I'm interested in LLM, Python and Full-Stack. Please check my website [haozheli.com](https://www.haozheli.com) or my [resume](https://www.haozheli.com/resume/Resume.html) for more info! 
+Hello, and welcome to my GitHub profile! I'm Haozhe Li, a Computer Science and Music Junior student at the [University of Illinois](https://illinois.edu). I'm interested in LLM, Python, and Full-Stack. Please feel free to check out my website [haozheli.com](https://www.haozheli.com) or my [resume](https://www.haozheli.com/resume/Resume.html) for more info! 
 
-### Repository
+## Repository
 
 Here is the work you might be interested in.
 
@@ -12,10 +12,10 @@ Here is the work you might be interested in.
 
 [**Auto-Run-Moss**](https://github.com/Haozhe-Li/Auto-Run-Moss): you can run moss to check your code with automation.
 
-### Contact
+## Contact
 
 Please **[click here](https://www.haozheli.com#contact)**
 
-### Gallery
+## Gallery
 
 Please **[click here](https://gallery.haozheli.com)**
