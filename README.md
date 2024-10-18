@@ -15,4 +15,4 @@ I'm also a:
 - **[free-ai-chat](https://github.com/Haozhe-Li/free-ai-chat):** an dummy AI chatbot, try it here [ai.haozheli.com](https://ai.haozheli.com)
 
 ## Contact Info 📧
-[haozhe.li/contact](https://haozhe.li/contact)
+[haozhe.li/contact](https://haozhe.li#contact)
