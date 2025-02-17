@@ -22,7 +22,7 @@ I'm also a:
 
 **[CDN Helper](https://github.com/Haozhe-Li/CDN-Helper):** A quick tool to publish your static file all across the world!
 
-[![CDN Helper](https://cdn.haozheli.com/cdnhelp.webp)](https://cdn.haozheli.com)
+[![CDN Helper](https://cdnhelp.haozheli.com/cdnhelp.webp)](https://cdn.haozheli.com)
 
 **Haozhe.Li:** My Personal Website (not open-sourced).
 
