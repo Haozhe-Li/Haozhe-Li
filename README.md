@@ -12,9 +12,9 @@ I'm also a:
 
 ## My project 🤖
 
-**[Omni:](https://github.com/Haozhe-Li/Omni-Search)** An AI search Engine, and Omni Knows XYZ!
+**[Omni:](https://github.com/Haozhe-Li/omni)** An AI Deep Research Agent, and Omni Knows XYZ!
 
-[![Omni Search](https://cdn.haozheli.com/omnisearch.webp)](https://omniknows.xyz)
+[![Omni Search](https://github.com/Haozhe-Li/omni/blob/0f40841fd3e2b272146e4ee05bc40684edc7b4eb/docs/assets/omni_cover.gif)](https://omniknows.xyz)
 
 **Chat Syllabus:** Know the course you will be fighting for next semester! (Will be open sourced)
 
